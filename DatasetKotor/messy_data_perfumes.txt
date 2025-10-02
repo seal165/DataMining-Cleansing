@@ -1,0 +1,5 @@
+reference:
+https://www.kaggle.com/datasets/ayushghawana/perfume-dataset
+
+spreadsheet:
+https://docs.google.com/spreadsheets/d/1LO8e0xpEZRDvhk---HXJ-I0b7S8qxLEGBGnGFDARf0o/edit?usp=sharing
